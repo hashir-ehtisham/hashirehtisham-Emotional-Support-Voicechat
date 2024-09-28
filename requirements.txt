@@ -1,0 +1,9 @@
+edge-tts 
+soxr 
+pydub 
+torch 
+sentencepiece 
+onnxruntime
+asyncio
+beautifulsoup4>=4.9
+requests>=2.20
